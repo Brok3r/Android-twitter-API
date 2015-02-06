@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Mejorandroid</string>
+    
+    <string name="label_tweet_search_loader">Descargando tweets&#8230;</string>
+    <string name="label_tweets_not_found">No se encontraron tweets.</string>
+    <string name="label_tweets_downloaded">Tweets descargados exitosamente.</string>
+
+</resources>
